@@ -1,0 +1,1 @@
+# hexo_friend_link
